@@ -163,6 +163,11 @@ video{
     -moz-box-shadow: 1px -1px 12px 5px rgba(0,0,0,0.71);
 }
 /* fin descriptions */
+.img-shape{
+    width: 100%;
+    border-radius: 8%;
+    padding: 5%;
+}
 .card-ceo{
     background-color: #039eff;
 }
