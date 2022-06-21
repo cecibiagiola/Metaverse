@@ -139,11 +139,12 @@ video{
     
 /* fin meta-3 */
 /* inicio meta-4 */
+
+
 .meta-3-img{
     width: 100%;
     height: 100vh;
-    
-} 
+    } 
 .meta-4-title{
     color: #039eff;
     padding: 20px;
@@ -151,9 +152,14 @@ video{
     -webkit-box-shadow: 1px -1px 12px 5px rgba(0,0,0,0.71);
     -moz-box-shadow: 1px -1px 12px 5px rgba(0,0,0,0.71);
 }
+.meta4-earn{
+    background-color: #039eff;
+    color: #1c1c1d;
+}
 /* fin meta-4 */
 /* inicio descriptions */
 .descriptions{
+    border-top: 1px solid #005082;
     color: #fff;
     padding-top: 100px;
 }
