@@ -213,3 +213,34 @@ footer p{
 }
     
 /* fin footer */
+
+@media screen and (max-width:450px ) {
+    .meta-3-text{
+        margin: 10%;
+        padding: 30px;
+        background-color: #1c1c1dcb;
+        color: #fff;
+    }
+
+    .meta-4-title{
+        margin: 0;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .meta-3-img{
+        display: none;
+    }
+    .meta-earn-play-learn{
+        width: 100%;
+    }
+
+    .meta-1-text{
+        width: 100%;
+        padding: 50px;
+        margin: 0;
+        text-align: center;
+    }
+    
+}
