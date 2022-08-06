@@ -215,6 +215,18 @@ footer p{
 /* fin footer */
 
 @media screen and (max-width:450px ) {
+    
+    .meta-responsive{
+       
+        margin: 0 !important;
+        text-align: center !important;
+    }
+
+    .meta1-responsive-text{
+       
+        width: 100% !important;
+    }
+    
     .meta-3-text{
         margin: 10%;
         padding: 30px;
